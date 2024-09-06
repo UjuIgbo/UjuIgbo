@@ -1,0 +1,4 @@
+- 👋 Hi, this is the official account for @UjuIgbo
+- 👀 I’m interested in learning and mastering data analysis skills
+- 💞️ my mission is to become a top notch Data analyst, with the skills to navigate and simplify data for easy consumption for even a lay-man.
+- 📫 join me on this thrilling journey as I transform data into meanningful insights to drive impactful decisions.
